@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Beer Advisor</string>
+    <string name="find_beer">Find Beer!</string>
+    <string name="brands">No beers selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+    <string-array name="light">
+        <item>MICHELAOB</item>
+        <item>COORS</item>
+        <item>BRAHMA</item>
+        <item>PRESIDENTE</item>
+    </string-array>
+    <string-array name="amber">
+        <item>San Miguel</item>
+        <item>Martins</item>
+        <item>Leffe</item>
+    </string-array>
+    <string-array name="brown">
+        <item>Petes Wicked Ale</item>
+        <item>Burly Brown Ale</item>
+        <item>Brooklyn Brown Ale</item>
+    </string-array>
+    <string-array name="dark">
+        <item>Bosteels</item>
+        <item>St. Bernardus</item>
+        <item>Samuel Smith</item>
+    </string-array>
+    <string-array name="beersNames">
+        <item>MICHELAOB,COORS,BRAHMA,PRESIDENTE</item>
+        <item>San Miguel,Martins,Leffe</item>
+        <item>Petes Wicked Ale,Burly Brown Ale,Brooklyn Brown Ale</item>
+        <item>Bosteels,St. Bernardus,Samuel Smith</item>
+    </string-array>
+</resources>
